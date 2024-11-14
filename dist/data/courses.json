@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Nhập môn Lập trình",
+        "description": "Tìm hiểu về các khái niệm lập trình cơ bản, biến, vòng lặp và hàm.",
+        "duration": "4 tuần"
+    },
+    {
+        "id": 2,
+        "title": "Phát triển Web với HTML, CSS và JavaScript",
+        "description": "Học cách xây dựng trang web từ cơ bản đến nâng cao với HTML, CSS và JavaScript.",
+        "duration": "6 tuần"
+    },
+    {
+        "id": 3,
+        "title": "Lập trình Python",
+        "description": "Khóa học về Python từ cơ bản đến nâng cao, ứng dụng trong phân tích dữ liệu và Machine Learning.",
+        "duration": "8 tuần"
+    },
+    {
+        "id": 4,
+        "title": "Cơ sở dữ liệu với SQL",
+        "description": "Tìm hiểu về cách quản lý và truy vấn dữ liệu bằng ngôn ngữ SQL.",
+        "duration": "5 tuần"
+    }
+]
