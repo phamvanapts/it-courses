@@ -1,26 +1,201 @@
 [
     {
-        "id": 1,
-        "title": "Nhập môn Lập trình",
-        "description": "Tìm hiểu về các khái niệm lập trình cơ bản, biến, vòng lặp và hàm.",
-        "duration": "4 tuần"
+        "id": "CT101",
+        "title": "Lập trình căn bản",
+        "description": "Khóa học về lập trình căn bản sử dụng ngôn ngữ C.",
+        "image": "../../public/images/programming.png",
+        "link": "https://phamvanapts.github.io/laptrinhcanban/",
+        "status": "Đang mở"
     },
     {
-        "id": 2,
-        "title": "Phát triển Web với HTML, CSS và JavaScript",
-        "description": "Học cách xây dựng trang web từ cơ bản đến nâng cao với HTML, CSS và JavaScript.",
-        "duration": "6 tuần"
+        "id": "CT173",
+        "title": "Kiến trúc máy tính",
+        "description": "Tìm hiểu về kiến trúc máy tính, các thành phần phần cứng và hoạt động.",
+        "image": "./images/computer_architecture.jpg",
+        "link": "./lessons/computer_architecture.html",
+        "status": "Sắp mở"
     },
     {
-        "id": 3,
-        "title": "Lập trình Python",
-        "description": "Khóa học về Python từ cơ bản đến nâng cao, ứng dụng trong phân tích dữ liệu và Machine Learning.",
-        "duration": "8 tuần"
+        "title": "Toán rời rạc",
+        "description": "Khóa học toán rời rạc với các chủ đề như lý thuyết tập hợp, đại số boolean.",
+        "image": "./images/discrete_math.jpg",
+        "link": "./lessons/discrete_math.html",
+        "status": "Sắp mở"
     },
     {
-        "id": 4,
-        "title": "Cơ sở dữ liệu với SQL",
-        "description": "Tìm hiểu về cách quản lý và truy vấn dữ liệu bằng ngôn ngữ SQL.",
-        "duration": "5 tuần"
+        "title": "Lập trình hướng đối tượng",
+        "description": "Tìm hiểu về lập trình hướng đối tượng với các khái niệm như lớp, đối tượng, kế thừa.",
+        "image": "./images/oop.jpg",
+        "link": "./lessons/oop.html",
+        "status": "Sắp mở"
+    },
+    {
+        "id": "CT177",
+        "title": "Cấu trúc dữ liệu",
+        "description": "Khám phá các cấu trúc dữ liệu cơ bản và cách sử dụng chúng.",
+        "image": "./images/data_structure.jpg",
+        "link": "https://phamvanapts.github.io/cautrucdulieu",
+        "status": "Đang cập nhật"
+    },
+    {
+        "title": "Cơ sở dữ liệu",
+        "description": "Khám phá các cấu trúc dữ liệu cơ bản và cách sử dụng chúng.",
+        "image": "./images/data_base.jpg",
+        "link": "https://phamvanapts.github.io/cautrucdulieu",
+        "status": "Sắp mở"
+    },
+    {
+        "title": "Nguyên lý hệ điều hành",
+        "description": "Khám phá các cấu trúc dữ liệu cơ bản và cách sử dụng chúng.",
+        "image": "./images/nlhdh.jpg",
+        "link": " ",
+        "status": "Sắp mở"
+    },
+    {
+        "title": "Lý thuyết đồ thị",
+        "description": "Khám phá các cấu trúc dữ liệu cơ bản và cách sử dụng chúng.",
+        "image": "./images/ltdt.jpg",
+        "link": " ",
+        "status": "Sắp mở"
+    },
+    {
+        "title": "Phân tích và thiết kế thuật toán",
+        "description": "Tìm hiểu các phương pháp thiết kế và phân tích thuật toán.",
+        "image": "./images/pttktt.jpg",
+        "link": "",
+        "status": "Sắp mở"
+    },
+    {
+        "title": "Nhập môn lập trình Web",
+        "description": "Tìm hiểu các phương pháp thiết kế và phân tích thuật toán.",
+        "image": "./images/Nhập môn lập trình Web.jpg",
+        "link": "",
+        "status": "Sắp mở"
+    },
+    {
+        "title": "Nhập môn trí tuệ nhân tạo",
+        "description": "Tìm hiểu các khái niệm cơ bản về trí tuệ nhân tạo và học máy.",
+        "image": "./images/ai_intro.jpg",
+        "link": "./lessons/ai_intro.html",
+        "status": "Sắp mở"
+    },
+    {
+        "title": "Giao diện người - máy",
+        "description": "Tìm hiểu các phương pháp thiết kế và phân tích thuật toán.",
+        "image": "./images/Giao diện người - máy.jpg",
+        "link": "",
+        "status": "Sắp mở"
+    },
+    {
+        "title": "Mạng máy tính",
+        "description": "Tìm hiểu các phương pháp thiết kế và phân tích thuật toán.",
+        "image": "./images/Mạng máy tính.jpg",
+        "link": "",
+        "status": "Sắp mở"
+    },
+    {
+        "title": "Phân tích và thiết kế hệ thống",
+        "description": "Tìm hiểu các phương pháp thiết kế và phân tích thuật toán.",
+        "image": "./images/Phân tích và thiết kế hệ thống.jpg",
+        "link": "",
+        "status": "Sắp mở"
+    },
+    {
+        "title": "Máy học ứng dụng",
+        "description": "Tìm hiểu các phương pháp thiết kế và phân tích thuật toán.",
+        "image": "./images/Máy học ứng dụng.jpg",
+        "link": "",
+        "status": "Sắp mở"
+    },
+    {
+        "title": "Công nghệ Web",
+        "description": "Tìm hiểu các phương pháp thiết kế và phân tích thuật toán.",
+        "image": "./images/Công nghệ Web.jpg",
+        "link": "",
+        "status": "Sắp mở"
+    },
+    {
+        "title": "Ngôn ngữ mô hình hoá",
+        "description": "Tìm hiểu các phương pháp thiết kế và phân tích thuật toán.",
+        "image": "./images/Ngôn ngữ mô hình hoá.png",
+        "link": "",
+        "status": "Sắp mở"
+    },
+    {
+        "title": "Quản trị hệ thống",
+        "description": "Tìm hiểu các phương pháp thiết kế và phân tích thuật toán.",
+        "image": "./images/Quản trị hệ thống.jpg",
+        "link": "",
+        "status": "Sắp mở"
+    },
+    {
+        "title": "Quản trị dữ liệu",
+        "description": "Tìm hiểu các phương pháp thiết kế và phân tích thuật toán.",
+        "image": "./images/Quản trị dữ liệu.jpg",
+        "link": "",
+        "status": "Sắp mở"
+    },
+    {
+        "title": "Phát triển phần mềm",
+        "description": "Tìm hiểu các phương pháp thiết kế và phân tích thuật toán.",
+        "image": "./images/Phát triển phần mềm.jpg",
+        "link": "",
+        "status": "Sắp mở"
+    },
+    {
+        "title": "Quản lý dự án phần mềm",
+        "description": "Tìm hiểu các phương pháp thiết kế và phân tích thuật toán.",
+        "image": "./images/Quản lý dự án phần mềm.jpg",
+        "link": "",
+        "status": "Sắp mở"
+    },
+    {
+        "title": "An toàn hệ thống",
+        "description": "Tìm hiểu các phương pháp thiết kế và phân tích thuật toán.",
+        "image": "./images/An toàn hệ thống.jpg",
+        "link": "",
+        "status": "Sắp mở"
+    },
+    {
+        "title": "Mạng và truyền thông dữ liệu",
+        "description": "Tìm hiểu các phương pháp thiết kế và phân tích thuật toán.",
+        "image": "./images/Mạng và truyền thông dữ liệu.jpg",
+        "link": "",
+        "status": "Sắp mở"
+    },
+    {
+        "title": "Phát triển ứng dụng Web",
+        "description": "Tìm hiểu các phương pháp thiết kế và phân tích thuật toán.",
+        "image": "./images/Phát triển ứng dụng Web.jpg",
+        "link": "",
+        "status": "Sắp mở"
+    },
+    {
+        "title": "Phát triển ứng dụng thiết bị di động",
+        "description": "Tìm hiểu các phương pháp thiết kế và phân tích thuật toán.",
+        "image": "./images/Phát triển ứng dụng thiết bị di động.jpg",
+        "link": "",
+        "status": "Sắp mở"
+    },
+    {
+        "title": "Khai khoáng dữ liệu",
+        "description": "Tìm hiểu các phương pháp thiết kế và phân tích thuật toán.",
+        "image": "./images/Khai khoáng dữ liệu.jpg",
+        "link": "",
+        "status": "Sắp mở"
+    },
+    {
+        "title": "Điện toán đám mây",
+        "description": "Tìm hiểu các phương pháp thiết kế và phân tích thuật toán.",
+        "image": "./images/Điện toán đám mây.jpg",
+        "link": "",
+        "status": "Sắp mở"
+    },
+    {
+        "title": "Xử lý dữ liệu lớn",
+        "description": "Khám phá các kỹ thuật xử lý và phân tích dữ liệu lớn.",
+        "image": "./images/big_data.jpg",
+        "link": "./lessons/big_data.html",
+        "status": "Sắp mở"
     }
 ]
