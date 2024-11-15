@@ -1,0 +1,150 @@
+{
+    "chapters": [
+        {
+            "title": "Phần 1: Giới thiệu",
+            "lessons": [
+                {
+                    "title": "Bài 1: Giới thiệu cấu trúc dữ liệu",
+                    "videoId": "a4lFdTIDHLs",
+                    "description": "https://docs.google.com/document/d/1lwOV84dmGxoyWxNKuKO2XeDTlXmXO5mCZ-BmbhCZu_0"
+                }
+
+            ]
+        },
+        {
+            "title": "Phần 2: Độ phức tạp Giải thuật",
+            "lessons": [
+                {
+                    "title": "Tập 2 | Cấu trúc dữ liệu | Độ phức tạp của giải thuật | Các khái niệm",
+                    "videoId": "njMXM_ApQYg",
+                    "description": "https://docs.google.com/document/d/1iLjQWWkWbjdv6WDJzYJ4xltoFp2olU7kjT_4hWNbX9c"
+                },
+                {
+                    "title": "Tập 3 | Cấu trúc dữ liệu | Độ phức tạp của giải thuật | Mô hình RAM",
+                    "videoId": "UHJlUiFaSA0",
+                    "description": "https://docs.google.com/document/d/1EjoRo0KEJ36yRJYSJUUUsHGV9BHC5UDj4G32JgtvWeY"
+                },
+                {
+                    "title": "Tập 4 | Cấu trúc dữ liệu | Độ phức tạp của giải thuật | Phân tích tiệm cận",
+                    "videoId": "1joe0nzUEVo",
+                    "description": ""
+                }
+
+            ]
+        },
+        {
+            "title": "Phần 3: Danh sách cài đặt mảng",
+            "lessons": [
+                {
+                    "title": "Tập 5 | Cấu trúc dữ liệu | Danh sách cài đặt mảng ",
+                    "videoId": "wW7JdLezkE4",
+                    "description": ""
+                },
+                {
+                    "title": "",
+                    "videoId": "",
+                    "description": ""
+                }
+                
+
+            ]
+        },
+        {
+            "title": "Phần 4: Danh sách liên kết",
+            "lessons": [
+                {
+                    "title": "",
+                    "videoId": "",
+                    "description": ""
+                }
+                
+
+            ]
+        },
+        {
+            "title": "Phần 5: Mảng động",
+            "lessons": [
+                {
+                    "title": "",
+                    "videoId": "",
+                    "description": ""
+                }
+                
+
+            ]
+        },
+        {
+            "title": "Phần 6: Ngăn xếp",
+            "lessons": [
+                {
+                    "title": "",
+                    "videoId": "",
+                    "description": ""
+                }
+                
+
+            ]
+        },
+        {
+            "title": "Phần 7: Hàng đợi",
+            "lessons": [
+                {
+                    "title": "",
+                    "videoId": "",
+                    "description": ""
+                }
+                
+
+            ]
+        },
+        {
+            "title": "Phần 8: Tổng quan về cây",
+            "lessons": [
+                {
+                    "title": "",
+                    "videoId": "",
+                    "description": ""
+                }
+                
+
+            ]
+        },
+        {
+            "title": "Phần 9: Cây tìm kiếm nhị phân",
+            "lessons": [
+                {
+                    "title": "",
+                    "videoId": "",
+                    "description": ""
+                }
+                
+
+            ]
+        },
+        {
+            "title": "Phần 10: Cây cân bằng",
+            "lessons": [
+                {
+                    "title": "",
+                    "videoId": "",
+                    "description": ""
+                }
+                
+
+            ]
+        },
+        {
+            "title": "Phần 11: Kỹ thuật băm",
+            "lessons": [
+                {
+                    "title": "",
+                    "videoId": "",
+                    "description": ""
+                }
+                
+
+            ]
+        }
+    ]
+}
+

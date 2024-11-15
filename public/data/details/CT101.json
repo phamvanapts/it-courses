@@ -1,0 +1,249 @@
+{
+    "id": "laptrinhcanban",
+    "title": "Lập trình căn bản",
+    "description": "Học lập trình căn bản sử dụng ngôn ngữ C.",
+    "chapters": [
+        {
+            "title": "Phần 1: Giới thiệu",
+            "lessons": [
+                {
+                    "title": "Bài 1: Giới thiệu lập trình C",
+                    "videoId": "wf65G7adL3s",
+                    "description": "https://docs.google.com/document/d/1cKGEf8gwtIyj3GG6ynxWFlIiuJn2PLf86UR5tXi96m8/edit?usp=sharing"
+                },
+                {
+                    "title": "Tập 2 | Lập trình cơ bản | Phương trình cơ bản của máy tính",
+                    "videoId": "zSCj7QYbOms",
+                    "description": "https://docs.google.com/document/d/1MKlNvU1v1C1ZNJL_RPuC6nHf0M6cL-SYgYFSM-kNMIA/edit?usp=sharing"
+                },
+                {
+                    "title": "Tập 3 | Lập trình căn bản | Lập trình cho máy tính",
+                    "videoId": "mPlhYFtyK3c",
+                    "description": "https://docs.google.com/document/d/1KmZA5Bbh1GkNiPzksIBKGJWMPVk1dYakzC-In23xIGw/edit?usp=sharing"
+                },
+                {
+                    "title": "Tập 4 | Lập trình căn bản | Giới thiệu Ngôn ngữ lập trình C - Môi trường thực hành",
+                    "videoId": "awH1t9fVauk",
+                    "description": "https://docs.google.com/document/d/1p8_C5FvuJtAiF3pRKcby3n8h1TKPhvcCVLhOZwO6rvc/edit?usp=sharing"
+                }
+            ]
+        },
+        {
+            "title": "Phần 2: Lệnh đơn và cấu trúc rẻ nhánh",
+            "lessons": [
+                {
+                    "title": "Tập 5 | Lập trình cơ bản | Giới thiệu - Lệnh đơn - rẽ nhánh",
+                    "videoId": "UtqwaD3PTo0",
+                    "description": "https://docs.google.com/document/d/1Y9sbmrLb0jO89eIxjj9PM79JPxbVWKKLNbRLKY3r8hA/edit?usp=sharing"
+                },
+                {
+                    "title": "Tập 6| Lập trình căn bản | Biến - variables",
+                    "videoId": "XxA62HMoXLg",
+                    "description": "https://docs.google.com/document/d/1QHoYNp0TlCaZoWjrG1OG7cAzmz1Nl0s_HsvtXr0tClI/edit?usp=sharing"
+                },
+                {
+                    "title": "Tập 7 | Lập trình căn bản | Kiểu dữ liệu",
+                    "videoId": "SBsKJTkNc7o",
+                    "description": "https://docs.google.com/document/d/1uIpVUeWDbxEkVUEPSapebttPX1HOxODEYV_-Q-5lH7k"
+                },
+                {
+                    "title": "Tập 8 | Lập trình căn bản | Nhập xuất cơ bản",
+                    "videoId": "TKN1XCwBG_U",
+                    "description": "https://docs.google.com/document/d/1lKTnX02sxdom--KNgkSAg1CXmi0fS4ouNKg9DgQXuD0"
+                },
+                {
+                    "title": "Tập 9 | Lập trình căn bản | biểu thức toán học",
+                    "videoId": "P587MH1XB1A",
+                    "description": "https://docs.google.com/document/d/1QdeH969smRKUoZAvamw9OR672U3WQcnw5fmMNl_XXKo/edit?usp=sharing"
+                },
+                {
+                    "title": "Tập 10 | Lập trình căn bản | Chuyển đổi kiểu dữ liệu",
+                    "videoId": "T712YxIORw0",
+                    "description": "https://docs.google.com/document/d/1SZFirecvj3PxV9mGVJ3bsJEyltNrXYhJvhb6KkMMJ1g"
+                },
+                {
+                    "title": "Tập 11 | Lập trình căn bản | Câu điều kiện IF",
+                    "videoId": "ha_bk4t956Y",
+                    "description": "https://docs.google.com/document/d/1YLE1LXWElmx8ZnIfTsffALKtLOXnMxmR6NjcUdIf2E8/edit?usp=sharing"
+                },
+                {
+                    "title": "Tập 12 | Lập trình căn bản | Switch - Case",
+                    "videoId": "8qMIMB5h60s",
+                    "description": "https://docs.google.com/document/d/199p37-mB2vws1-lO7ohyYqSt0xds7YNNYP7JfTp5xjc/edit?usp=sharing"
+                },
+                {
+                    "title": "Tập 13 | Lập trình căn bản | Ôn tập lý thuyết",
+                    "videoId": "Xv90rzQUgNU",
+                    "description": "https://docs.google.com/document/d/1Hjyi2nDDQQ9QKlv4N9OZZY0J3VAV1ikgHSTVcE1ztrc/edit?usp=sharing"
+                }
+            ]
+        },
+        {
+            "title": "Phần 3: Cấu trúc lặp",
+            "lessons": [
+                {
+                    "title": "Tập 14 | Lập trình căn bản | Giới thiệu vòng lập",
+                    "videoId": "VWGsV53ZMZM",
+                    "description": "https://docs.google.com/document/d/1czmrka4wXqAvlLM6CfZ6v_B2bU2uhcOdVDY_G8zIy-0/edit?usp=sharing"
+                },
+                {
+                    "title": "Tập 15 | Lập trình căn bản | Vòng lập FOR - hướng dẫn chi tiết nhất vòng lặp trong C",
+                    "videoId": "li8JDfcCjQ0",
+                    "description": "https://docs.google.com/document/d/1yxlL9Za0LZkfFzgO_2lTYcOADf8RmCTYg5pITwackP4/edit?usp=sharing"
+                },
+                {
+                    "title": "Tập 16 - Lập trình căn bản | Ôn tập vòng lặp",
+                    "videoId": "Ce1kqpk_6sI",
+                    "description": "https://docs.google.com/document/d/1cZV0Can3liowZqceBINm7LFQw9wonHHSaj36dc2DZjU/edit?usp=sharing"
+                }
+            ]
+        },
+        {
+            "title": "Phần 4: Chương trình con",
+            "lessons": [
+                {
+                    "title": "Tập 17 | Lập trình căn bản | Function - Hàm trong lạp trình C",
+                    "videoId": "9G4i7DIa-e8",
+                    "description": "https://docs.google.com/document/d/1MJbD7AKxjk5JsftbqxdGQ6m_7bFjcehgSEobmPBYqHU/edit?usp=sharing"
+                },
+                {
+                    "title": "Tập 18 | Lập trình căn bản | Ôn tập kiến thức chung",
+                    "videoId": "05dQuvcf7OM",
+                    "description": "https://docs.google.com/document/d/1gfi1wcB8bBbOfmspiDhvwE2AzbiQnKXW0v-5l6_Uq10/edit?usp=sharing"
+                },
+                {
+                    "title": "Tập 19 | Lập trình căn bản | Bài tập ôn tập chung",
+                    "videoId": "Ngfi5uOHrHI",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "title": "Phần 5: Đệ quy",
+            "lessons": [
+                {
+                    "title": "Tập 20 | Lập trình căn bản | Đệ quy",
+                    "videoId": "f9sQ2myaIf0",
+                    "description": "https://docs.google.com/document/d/1UutdZaxAucDnQPGNhWkoAkTRlrj0kITZmfIWjdSHdXQ/edit?usp=sharing"
+                },
+                {
+                    "title": "Tập 21 | Lập trình căn bản | Ôn tập Đệ quy",
+                    "videoId": "IMheNtWEEvk",
+                    "description": "https://docs.google.com/document/d/1oSbYvvTELyOsUr95dOsg7Q2oyzg8vGS7q-PHKIDcPws/edit?usp=sharing"
+                }
+            ]
+        },
+        {
+            "title": "Phần 6: Mảng",
+            "lessons": [
+                {
+                    "title": "Tập 22 | Lập trình căn bản | Mảng (array) trong lập trình C",
+                    "videoId": "laI9BJ_8I1I",
+                    "description": "https://docs.google.com/document/d/1-rVChehEeQO8Oe8jq6uNHcu5xVvjHwrF-O7-epOBLzQ/edit?usp=sharing"
+                },
+                {
+                    "title": "Tập 23 | Lập trình căn bản | Ôn tập Mảng",
+                    "videoId": "iE42_IRzP70",
+                    "description": "https://docs.google.com/document/d/1rCcqPjEkWjEqeVG8S3qXoqBsoOlHrZhJMQMurUC9ExY/edit?usp=sharing"
+                }
+            ]
+        },
+        {
+            "title": "Phần 7: Chuỗi ký tự",
+            "lessons": [
+                {
+                    "title": "Tập 24 | Lập trình căn bản | Chuỗi",
+                    "videoId": "Z5MDgfmkLdQ",
+                    "description": "https://docs.google.com/document/d/1KICv6JY5unwAB7cK1MIr4PYKew7-EHYR5pBNQ5t2xX0/edit?usp=sharing"
+                },
+                {
+                    "title": "Tập 25 | Lập trình căn bản | Ôn tập Chuỗi",
+                    "videoId": "nCDtGVPotNk",
+                    "description": "https://docs.google.com/document/d/1t1BXKPfAL_2kaf0gTsrxHxm8ehBWVkxiVRH9rPbjNi8/edit?usp=sharing"
+                }
+            ]
+        },
+        {
+            "title": "Phần 8: Kiểu cấu trúc",
+            "lessons": [
+                {
+                    "title": "Tập 26 | Lập trình căn bản | Kiểu cấu trúc",
+                    "videoId": "9e36qOZAqqc",
+                    "description": ""
+                },
+                {
+                    "title": "Tập 27 | Lập trình căn bản |Ôn tập Kiểu cấu trúc",
+                    "videoId": "gNDXEF2erLA",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "title": "Phần 9: Con trỏ",
+            "lessons": [
+                {
+                    "title": "Tập 28 | Lập trình căn bản | Con trỏ - Định nghĩa",
+                    "videoId": "VFYWw2O-7eM",
+                    "description": "https://docs.google.com/document/d/152ZSRFN2Y2ooX468Ux3BkmhaTKaKy1NWCR9uv4Qj59U/edit?usp=sharing"
+                },
+                {
+                    "title": "Tập 29 | Lập trình căn bản | Con trỏ - Khai báo",
+                    "videoId": "omHSqmnjEM4",
+                    "description": "https://docs.google.com/document/d/1D19gqXezNoUjxbJJ1PN2nLi8jNNNTF75iw8aqKHUoVM/edit?usp=sharing"
+                },
+                {
+                    "title": "Tập 30 | Lập trình căn bản | Bài tập con trỏ",
+                    "videoId": "PjcmtqDxJVU",
+                    "description": "https://docs.google.com/document/d/1d6-b3AyEIL7GV5kZeD0WrDyxZCClTxEpa_NTZd2XI0o/edit?usp=sharing"
+                },
+                {
+                    "title": "Tập 31 | Lập trình căn bản | Ôn tập chung",
+                    "videoId": "-wmZ0EOLi9c",
+                    "description": "https://docs.google.com/document/d/1D_O9GlNrYpdqj1YFXDpKKAETasIJWAR7CYaEaTaAO18/edit?usp=sharing"
+                },
+                {
+                    "title": "Tập 32 | Lập trình căn bản | Ôn tập con trỏ",
+                    "videoId": "-wmZ0EOLi9c",
+                    "description": "https://docs.google.com/document/d/1D_O9GlNrYpdqj1YFXDpKKAETasIJWAR7CYaEaTaAO18/edit?usp=sharing"
+                }
+            ]
+        },
+        {
+            "title": "Phần 10: Chuỗi ký tự động",
+            "lessons": [
+                {
+                    "title": "Tập 33 | Lập trình căn bản | Chuỗi ký tự động",
+                    "videoId": "irWHHqiKpG0",
+                    "description": "https://docs.google.com/document/d/1cJ75erJ0XPNmFwWm2m5iamsDOWCDNt_jtAFgroG4Yb0/edit?usp=sharing"
+                },
+                {
+                    "title": "Tập 34 | Lập trình căn bản | Ôn tập Chuỗi ký tự động",
+                    "videoId": "jkR_vD-K9k4",
+                    "description": "https://docs.google.com/document/d/1DOji9THFsAl8aXw3-EcJ03Kf13-XYFj1alPP9g_EVp0/edit?usp=sharing"
+                },
+                {
+                    "title": "Tập 35 | Lập trình căn bản | Bài tập thực hành chuỗi ký tự động",
+                    "videoId": "HpPLqwYEnAk",
+                    "description": "https://docs.google.com/document/d/1mvhEY2yg5BeZP4Mmf_2Z8fVPiGtW7FqFIlTAPaPRqB0/edit?usp=sharing"
+                }
+            ]
+        },
+        {
+            "title": "Phần 11: Nhập xuất file",
+            "lessons": [
+                {
+                    "title": "Tập 36 | Lập trình căn bản | Thao tác với tập tin",
+                    "videoId": "iJLdvWGVQt4",
+                    "description": "https://docs.google.com/document/d/1oUxGw89E-gp1jm9s6xZtxbaWpfp7PZ752ZG4VebzVxU/edit?usp=sharing"
+                },
+                {
+                    "title": "Tập 37 | Lập trình căn bản | Ví dụ thực hành tập tin",
+                    "videoId": "zg6Hpff1s00",
+                    "description": "https://docs.google.com/document/d/10xub6z0DZEFRyBo3Cf-KsqGzTlTxXGfMbN3XkjgVXA0/edit?usp=sharing"
+                }
+            ]
+        }
+        
+    ]
+
+}

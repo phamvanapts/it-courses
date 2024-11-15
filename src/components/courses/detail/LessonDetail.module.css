@@ -1,0 +1,19 @@
+.lessonDetail {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.videoContainer {
+    margin-bottom: 20px;
+}
+
+.docContainer {
+    margin-top: 20px;
+}
+
+.emptyState {
+    text-align: center;
+    font-size: 16px;
+    color: #888;
+}

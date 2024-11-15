@@ -8,6 +8,7 @@
         "status": "Đang mở"
     },
     {
+        "id": "CT173",
         "title": "Kiến trúc máy tính",
         "description": "Tìm hiểu về kiến trúc máy tính, các thành phần phần cứng và hoạt động.",
         "image": "./images/computer_architecture.jpg",
@@ -29,6 +30,7 @@
         "status": "Sắp mở"
     },
     {
+        "id": "CT177",
         "title": "Cấu trúc dữ liệu",
         "description": "Khám phá các cấu trúc dữ liệu cơ bản và cách sử dụng chúng.",
         "image": "./images/data_structure.jpg",
