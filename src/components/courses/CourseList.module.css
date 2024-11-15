@@ -1,0 +1,22 @@
+/* CourseList.module.css */
+.courseList {
+    display: grid;
+    gap: 16px;
+    padding: 16px;
+    /* Bố cục responsive với grid */
+    grid-template-columns: repeat(1, 1fr); /* Mặc định 1 cột cho mobile */
+}
+
+/* Màn hình tablet (từ 768px trở lên) */
+@media (min-width: 768px) {
+    .courseList {
+        grid-template-columns: repeat(2, 1fr); /* 2 cột cho tablet */
+    }
+}
+
+/* Màn hình desktop (từ 1024px trở lên) */
+@media (min-width: 1024px) {
+    .courseList {
+        grid-template-columns: repeat(4, 1fr); /* 4 cột cho desktop */
+    }
+}

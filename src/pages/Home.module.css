@@ -1,0 +1,22 @@
+/* Home.module.css */
+.homeContainer {
+    /* display: flex; */
+    /* flex-direction: column; Đặt các component kế tiếp nhau theo chiều dọc */
+    align-items: center; /* Căn giữa các component */
+    gap: 24px; /* Khoảng cách giữa các component */
+    padding: 16px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.header {
+    font-size: 28px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 16px;
+    width: 100%;
+    height: 50px;
+}
+.CourseList{
+    border: #333;
+}

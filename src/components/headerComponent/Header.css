@@ -1,0 +1,75 @@
+header {
+    /* position: fixed;      Giữ luôn ở top */
+    top: 0;               /* Căn lên trên cùng */
+    left: 0;              /* Căn lề trái */
+    width: 100%;          /* Chiếm toàn bộ chiều ngang màn hình */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0;
+    /* background-color: #007bff; */
+    color: #4b4747;
+    z-index: 1000;        /*Đảm bảo navbar luôn nằm trên các phần khác*/
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Hiệu ứng đổ bóng nhẹ */
+}
+/* Phần navbar */
+.navbar-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.navbar-logo img {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+.navbar-text{
+    padding-left: 20px;
+    display: none;
+}
+.navbar-search input {
+    padding: 5px 10px;
+    border: 1px solid #4b4747;
+    border-radius: 15px;
+    width: auto;
+    height: 40px;
+}
+.login{
+    padding: 10px;
+    /* background-color: #007bff; */
+    border-radius: 10px;
+    border: 1px solid #4b4747;
+}
+
+header ul {
+    list-style: none;
+    display: flex;
+    gap: 10px;
+    padding-right: 20px;
+}
+
+ul li a {
+    color: #4b4747;
+    text-decoration: none;
+}
+/* Màn hình tablet (từ 768px trở lên) */
+@media (min-width: 768px) {
+    .navbar-text{
+        display: none;
+    }
+    .navbar-search input {
+        width: 200px;
+    }
+}
+
+/* Màn hình desktop (từ 1024px trở lên) */
+@media (min-width: 1024px) {
+    .navbar-text{
+        display: block;
+    }
+    .navbar-search input {
+        width: 400px;
+    }
+}
